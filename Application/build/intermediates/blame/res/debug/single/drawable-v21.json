@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\AndroidAppMonitoring\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Zlatan\\.android\\build-cache\\a4734fa088745e22d4dece8f7db8ea437a37d4b1\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\AndroidAppMonitoring\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Zlatan\\.android\\build-cache\\a4734fa088745e22d4dece8f7db8ea437a37d4b1\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\AndroidAppMonitoring\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\Zlatan\\.android\\build-cache\\ab860915ff87162aff699ee8a3b5c123c6439fec\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\AndroidAppMonitoring\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Zlatan\\.android\\build-cache\\a4734fa088745e22d4dece8f7db8ea437a37d4b1\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Zlatan\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Zlatan\\.android\\build-cache\\a4734fa088745e22d4dece8f7db8ea437a37d4b1\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

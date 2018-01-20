@@ -452,7 +452,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">AppUsageStatistics</string>
+    <string name="app_name">Android App Monitor</string>
     <string name="explanation_access_to_appusage_is_not_enabled">Failed to retrieve app usage
         statistics. You may need to enable access
         for this app through Settings > Security > Apps with usage access

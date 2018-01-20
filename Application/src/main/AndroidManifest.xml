@@ -15,7 +15,7 @@
  limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.appusagestatistics"
+    package="com.example.android.androidappmonitoring"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -26,7 +26,7 @@
         android:icon="@drawable/ic_launcher"
         android:theme="@style/Theme.AppCompat.Light">
 
-        <activity android:name=".AppUsageStatisticsActivity"
+        <activity android:name="com.example.android.androidappmonitoring.AppUsageStatisticsActivity"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

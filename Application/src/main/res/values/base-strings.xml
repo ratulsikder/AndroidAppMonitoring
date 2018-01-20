@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <string name="app_name">AppUsageStatistics</string>
+    <string name="app_name">Android App Monitor</string>
     <string name="intro_message">
         <![CDATA[
         
