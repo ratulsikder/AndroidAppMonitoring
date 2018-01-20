@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5e695efe11fa1460793aed451e6f955ef2a8836f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\afd21b0304b63b9e9561edce098b3a525580d718\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_f0f133ce769ccd43a24d71f55e5119b5e89eb842.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.1_2db79196e06761a93e4e8ebe0483a99ac472513f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\c755fe50e794a8a81d891b2dd303b036ab037502\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_caa5ff67e4298ce8909ce509cee03b9e15aa103a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\c755fe50e794a8a81d891b2dd303b036ab037502\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_caa5ff67e4298ce8909ce509cee03b9e15aa103a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\support-annotations-26.0.1_2db79196e06761a93e4e8ebe0483a99ac472513f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\fc5c5ddfbf565e6445d935d86c3228a89b535033\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04c6f40b1abda27a6326f638af79d2505e0feea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\90120f5b74698f2846b2e3e39daeae27d38f0f70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e3c75f751f3334e2e491e3110e4dd639e6ff010\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\ab860915ff87162aff699ee8a3b5c123c6439fec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_ac58e061aaa10f0147ae923b8b8438843bc68918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\b9380b156eff18858f678757128971b439b870e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_9d415c34e48c1d3fc85f287be15c8cc9def46efb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\b9380b156eff18858f678757128971b439b870e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d415c34e48c1d3fc85f287be15c8cc9def46efb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\9cdda77a275b75c76654eaff4221d13a42ff11ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_fd05d5a7f5533bde3b40a7cdfd9edd1bd4d7d3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\90120f5b74698f2846b2e3e39daeae27d38f0f70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_5e3c75f751f3334e2e491e3110e4dd639e6ff010.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\9cdda77a275b75c76654eaff4221d13a42ff11ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd05d5a7f5533bde3b40a7cdfd9edd1bd4d7d3ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\a6cf7477237f6452a8752a616d3d290059dce214\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ae0ce4984441bc40bcd2072c0db9914f03bbc96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\a4734fa088745e22d4dece8f7db8ea437a37d4b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96832787f3b718de3cea65d34e26493c050fbfbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\868042db6ff1657159fd81f0ae0a8f44a140e0b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_39fb8be87510f165aca78c70c97ed757ded0dd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\a4734fa088745e22d4dece8f7db8ea437a37d4b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_96832787f3b718de3cea65d34e26493c050fbfbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\fc5c5ddfbf565e6445d935d86c3228a89b535033\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_04c6f40b1abda27a6326f638af79d2505e0feea7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\ab860915ff87162aff699ee8a3b5c123c6439fec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac58e061aaa10f0147ae923b8b8438843bc68918\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\a6cf7477237f6452a8752a616d3d290059dce214\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_7ae0ce4984441bc40bcd2072c0db9914f03bbc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\2939e060099a5bc75f69bc1e1cea972e134265ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6062811de7cd71d07a325c66c39f2df1d9de91a0">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_df8f1ed46fe4d6ff2f3dffc02836640804fd146a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\2939e060099a5bc75f69bc1e1cea972e134265ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6062811de7cd71d07a325c66c39f2df1d9de91a0">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df8f1ed46fe4d6ff2f3dffc02836640804fd146a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\67de8832e668d03c8f57231fd492b8f7b2c4b51a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb285dbe158862e582b48decb93f764127da5945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a190b88c384f4110faf945a32adc634386444c6">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4de9f00924017a6810ae79404d807cb4ac926a1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\afd21b0304b63b9e9561edce098b3a525580d718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0f133ce769ccd43a24d71f55e5119b5e89eb842\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zlatan\.android\build-cache\67de8832e668d03c8f57231fd492b8f7b2c4b51a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\classes_fb285dbe158862e582b48decb93f764127da5945.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zlatan\.android\build-cache\868042db6ff1657159fd81f0ae0a8f44a140e0b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zlatan\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39fb8be87510f165aca78c70c97ed757ded0dd21\classes.dex" />
+    </item>
+
+</items>
