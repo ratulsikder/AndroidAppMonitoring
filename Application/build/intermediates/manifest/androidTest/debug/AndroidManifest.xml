@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.appusagestatistics.test">
+    package="com.example.android.androidappmonitoring.test">
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="26" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.android.appusagestatistics"
+                     android:targetPackage="com.example.android.androidappmonitoring"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.example.android.appusagestatistics"/>
+                     android:label="Tests for com.example.android.androidappmonitoring"/>
 </manifest>
