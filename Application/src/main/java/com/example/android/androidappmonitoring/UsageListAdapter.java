@@ -63,6 +63,11 @@ public class UsageListAdapter extends RecyclerView.Adapter<UsageListAdapter.View
         public ImageView getAppIcon() {
             return mAppIcon;
         }
+
+        public TextView getTotalTimeInForeground() {
+            return mPackageName;
+        }
+
     }
 
     public UsageListAdapter() {
@@ -77,8 +82,8 @@ public class UsageListAdapter extends RecyclerView.Adapter<UsageListAdapter.View
 
     @Override
     public void onBindViewHolder(ViewHolder viewHolder, final int position) {
-        viewHolder.getPackageName().setText(
-                mCustomUsageStatsList.get(position).usageStats.getPackageName());
+        //long t = usageStats.getTotalTimeInForeground();
+        viewHolder.getTotalTimeInForeground().setText(String.valueOf(mCustomUsageStatsList.get(position).usageStats.getTotalTimeInForeground()/1000));
         long lastTimeUsed = mCustomUsageStatsList.get(position).usageStats.getLastTimeUsed();
         viewHolder.getLastTimeUsed().setText(mDateFormat.format(new Date(lastTimeUsed)));
         viewHolder.getAppIcon().setImageDrawable(mCustomUsageStatsList.get(position).appIcon);
