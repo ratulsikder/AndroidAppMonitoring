@@ -108,6 +108,7 @@ public class AppUsageStatisticsFragment extends Fragment {
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 StatsUsageInterval statsUsageInterval = StatsUsageInterval
                         .getValue(strings[position]);
+                System.out.println("Hnfjrnfejufeuudeudde");
                 if (statsUsageInterval != null) {
                     List<UsageStats> usageStatsList =
                             getUsageStatistics(statsUsageInterval.mInterval);
